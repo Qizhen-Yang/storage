@@ -1,5 +1,5 @@
 *{font-family:'Ubuntu','Noto Sans CJK SC';}
 a, a:visited{text-decoration:none;color:#3a8fb7;font-weight:500;}
 a:hover{text-decoration:underline #3a8fb7 2px;}
-em strong,strong em{color: #3a8fb7;font-weight:400;font-style:none;}
+em strong,strong em{color: #3a8fb7;font-style:none;}
 .katex-html{text-align:left;}
