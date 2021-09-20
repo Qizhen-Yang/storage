@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
-*{font-family:'Ubuntu','Noto Sans CJK SC';}
+*{font-family:'Ubuntu','Noto Sans CJK SC';font-weight:300;}
 a, a:visited{text-decoration:none;color: #3a8fb7;font-weight: 400;}
 a:hover{text-decoration:underline #3a8fb7 2px;}
 .katex-html{text-align:center;}
