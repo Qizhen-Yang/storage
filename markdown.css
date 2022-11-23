@@ -1,10 +1,10 @@
-*{font-family: 'Inter', 'Noto Sans CJK SC', 'Noto Sans SC', sans-serif;}
+*{font-family: 'Fira Sans', 'Noto Sans CJK SC', 'Noto Sans SC', sans-serif;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Inter';}
 .katex-html{text-align:left;}
 
 a, a:visited{text-decoration:none;color:#3a8fb7;}
 a:hover{text-decoration:underline #3a8fb7 2px;}
 
-em {font-family: 'Open Sans';}
 em strong,strong em{color: #3a8fb7;font-style:normal;}
 
 blockquote{border-left-color:#3a8fb7;}
